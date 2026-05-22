@@ -7,11 +7,10 @@
 # TOPIC 1: The Loop Variable (The Box)
 items_packed = 0  
 
-# TOPIC 2: The While Loop (The Brain checking the rule)
+ # TOPIC 2: The While Loop 
 while items_packed < 3:  
     print("Packing an item into the box...")
     
-    # Updating the Loop Variable (The Data Flow)
     items_packed = items_packed + 1  
 
 print("All items packed! Ready for delivery.")    
