@@ -33,7 +33,12 @@ for floor in range(1, 4):
             
         print(f"  Checked Room {room} - All safe")
 
+#Using nested loops for patterns (rows and columns)
+for row in range(3):
+    for column in range(5):
+        print("*", end="")
+    print()        
 
 
 
-        
+
