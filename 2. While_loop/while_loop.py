@@ -1,8 +1,8 @@
-# pushups = 0
+pushups = 0
 
-# while pushups < 3:
-#     print("Doing a pushup!")                                  #
-#     pushups = pushups + 1
+while pushups < 3:
+    print("Doing a pushup!")                                  #
+    pushups = pushups + 1
 
 # TOPIC 1: The Loop Variable (The Box)
 items_packed = 0  
@@ -35,3 +35,7 @@ while search_number <= 5:
     search_number = search_number + 1
 
 print("Search over.")
+
+         # New Part start again with Socratic Teacher / Senior Python Mentor 
+#the core theme of this chapter is about making the computer repeat a task over and over again until a specific rule tells it to stop   
+
